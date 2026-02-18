@@ -1,0 +1,42 @@
+{
+  "release-type": "python",
+  "packages": {
+    ".": {
+      "package-name": "hyperoptic",
+      "changelog-path": "CHANGELOG.md",
+      "version-file": "pyproject.toml"
+    }
+  },
+  "changelog-sections": [
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "docs",
+      "section": "Documentation"
+    },
+    {
+      "type": "test",
+      "section": "Tests"
+    },
+    {
+      "type": "refactor",
+      "section": "Refactoring"
+    },
+    {
+      "type": "perf",
+      "section": "Performance"
+    },
+    {
+      "type": "chore",
+      "section": "Miscellaneous"
+    }
+  ],
+  "bump-minor-pre-major": true,
+  "always-link-local": true
+}
