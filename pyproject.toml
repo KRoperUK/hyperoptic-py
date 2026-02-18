@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "hyperoptic"
-version = "0.1.0"
+version = "0.0.0"
 description = "Unofficial Python client for the Hyperoptic customer portal API"
 readme = "README.md"
 requires-python = ">=3.10"
