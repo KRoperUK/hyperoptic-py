@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.1.0 (2026-02-18)
+
+
+### Features
+
+* initial ([57b726c](https://github.com/KRoperUK/hyperoptic-py/commit/57b726c9e2ca71d9d19a5a98950d623c4421426a))
+
 ## [0.1.0] - 2026-02-18
 
 ### Added
